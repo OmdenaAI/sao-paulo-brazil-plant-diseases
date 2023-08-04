@@ -1,4 +1,4 @@
-# Monitoring and Predicting Subway Passenger Demand in São Paulo City Using Machine Learning
+# Classification of Plant Diseases in Brazilian Agriculture Using Computer Vision and Machine Learning
 
 
 ## Contribution Guidelines
