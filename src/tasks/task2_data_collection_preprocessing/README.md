@@ -1,2 +1,6 @@
+# Data Collection & Preprocessing
 
-# task2_data_collection_preprocessing
+- Firstly we decided to focus on three crops dataset mainly
+    - Coffee
+    - Corn
+    - Soya
