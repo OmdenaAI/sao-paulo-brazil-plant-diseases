@@ -5,7 +5,7 @@ from os import listdir
 
 for i in os.listdir('/home/Rust'):
 
-# check if the image ends with png
+# check if the image ends with jpg or png
     if (i.endswith(".jpg")):
         print(i)
         
