@@ -1,6 +1,30 @@
 # cnn_image_classifier
 CNN from scratch for image classification.
 
+### METRICS
+
+Accuracy: 94.72%
+
+Confusion Matrix:
+[[500   0   6   1   7]
+ [  0 501   0   0   0]
+ [ 28   0 446  15   2]
+ [ 11   0  36 406  28]
+ [  1   0   0   0 512]]
+F1 Score: 0.9452815737800676
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.93      0.97      0.95       514
+           1       1.00      1.00      1.00       501
+           2       0.91      0.91      0.91       491
+           3       0.96      0.84      0.90       481
+           4       0.93      1.00      0.96       513
+
+    accuracy                           0.95      2500
+   macro avg       0.95      0.94      0.94      2500
+weighted avg       0.95      0.95      0.95      2500
+
 ### Libraries:
 The code uses popular libraries like PyTorch, PIL, scikit-learn, matplotlib, and NumPy.
 Data Preparation:
