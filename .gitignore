@@ -128,3 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .DS_Store
+src/tasks/task4_models_building/vandriele_lenet_model/plant-diseases/dataset.txt
+*.jpg
+*.jpeg
+*.zip
