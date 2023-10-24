@@ -4,3 +4,14 @@ uvicorn
 numpy
 pillow
 python-multipart
+streamlit
+
+joblib
+opencv-python-headless
+pandas
+scikit-image
+scikit-learn
+scikeras
+gdown
+torchvision
+torch
